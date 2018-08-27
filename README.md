@@ -7,6 +7,7 @@ BizTalk Mapper Extensions UtilityPack is a set of libraries with several useful 
 * **Convert from human readable to epoch date Functoid**: This functoid allows you to convert a traditional date (Human Readable Date) into a unix date (Epoch Date).
 * **Convert from epoch to human readable date Functoid** This functoid allows you to convert a unix date (Epoch Date) into a traditional date (Human Readable Date).
 * **Convert datetime format Functoid**: This functoid allows you to convert datetime format.
+* **Convert to a Number Functoid**: This functoid allows you to convert a string to a number (integer).
 
 ### Dynamic Generators Functoids
 
