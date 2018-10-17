@@ -1,0 +1,9 @@
+C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Database.Functoids\obj\Debug\BizTalk.Database.Functoids.DatabaseResources.resources
+C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Database.Functoids\obj\Debug\BizTalk.Database.Functoids.csproj.GenerateResource.Cache
+C:\Program Files (x86)\Microsoft BizTalk Server 2016\Developer Tools\Mapper Extensions\BizTalk.Database.Functoids.dll
+C:\Program Files (x86)\Microsoft BizTalk Server 2016\Developer Tools\Mapper Extensions\BizTalk.Database.Functoids.pdb
+C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Database.Functoids\obj\Debug\BizTalk.Database.Functoids.dll
+C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Database.Functoids\obj\Debug\BizTalk.Database.Functoids.pdb
+C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Database.Functoids\bin\Debug\BizTalk.Database.Functoids.dll
+C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Database.Functoids\bin\Debug\BizTalk.Database.Functoids.pdb
+C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Database.Functoids\bin\Debug\Microsoft.BizTalk.BaseFunctoids.dll

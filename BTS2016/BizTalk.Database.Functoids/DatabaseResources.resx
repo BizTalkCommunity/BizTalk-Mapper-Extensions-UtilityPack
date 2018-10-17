@@ -112,22 +112,34 @@
     <value>2.0</value>
   </resheader>
   <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="IDS_ADVDBLOOKUPFUNCTOID_NAME" xml:space="preserve">
+    <value>Adv Database Lookup</value>
+  </data>
+  <data name="IDS_ADVDBLOOKUPFUNCTOID_DESCRIPTION" xml:space="preserve">
+    <value>Use the Adv Database Lookup functoid to extract information from a database and store it as a Microsoft ActiveX Data Objects (ADO) recordset. This functoid requires the following 2 inputs: a database connection string and a WHERE clausure.</value>
+  </data>
+  <data name="IDS_ADVDBLOOKUPFUNCTOID_TOOLTIP" xml:space="preserve">
+    <value>Use the Adv Database Lookup functoid to extract information from a database and store it as a Microsoft ActiveX Data Objects (ADO) recordset. This functoid requires the following 2 inputs: a database connection string and a WHERE clausure.</value>
+  </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="IDS_DEFAULTVALUEMAPFUNCTOID_BITMAP" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>Resources\DefaultOptionalValue.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="IDS_ADVDBLOOKUPFUNCTOID_BITMAP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\IDS_ADVDBLOOKUPFUNCTOID_BITMAP.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="IDS_DEFAULTVALUEMAPFUNCTOID_DESCRIPTION" xml:space="preserve">
-    <value>Use the Default Value Mapping functoid to return a value from one of two input parameters. If the value of the first input parameter is Null or Empty, then the value of the second input parameter is returned, otherwise the first input is returned. This functoid requires two input parameters.</value>
+  <data name="IDS_ADVDBVALUEEXTFUNCTOID_BITMAP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\IDS_ADVDBVALUEEXTFUNCTOID_BITMAP.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="IDS_DEFAULTVALUEMAPFUNCTOID_NAME" xml:space="preserve">
-    <value>Default Value Mapping</value>
+  <data name="IDS_ADVDBVALUEEXTFUNCTOID_DESCRIPTION" xml:space="preserve">
+    <value>Use the Adv Value Extrator functoid to extract the appropriate column value from a recordset returned by the Database Lookup functoid. This functoid requires two inputs parameters: a link to the Database Lookup functoid and a column name</value>
   </data>
-  <data name="IDS_DEFAULTVALUEMAPFUNCTOID_TOOLTIP" xml:space="preserve">
-    <value>This functoid must have exactly 2 input parameters</value>
+  <data name="IDS_ADVDBVALUEEXTFUNCTOID_NAME" xml:space="preserve">
+    <value>Adv Value Extractor</value>
+  </data>
+  <data name="IDS_ADVDBVALUEEXTFUNCTOID_TOOLTIP" xml:space="preserve">
+    <value>Use the Adv Value Extrator functoid to extract the appropriate column value from a recordset returned by the Database Lookup functoid. This functoid requires two inputs parameters: a link to the Database Lookup functoid and a column name</value>
   </data>
 </root>
