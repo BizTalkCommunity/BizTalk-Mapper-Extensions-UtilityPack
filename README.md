@@ -73,3 +73,8 @@ BizTalk Mapper Extensions UtilityPack is a set of libraries with several useful 
 * **Advance Logical NOT Functoid**: Use the Advance Logical NOT functoid to return the logical inversion of the input parameter. This functoid requires one input parameter only.
 * **Advance Logical OR Functoid**: Use the Advance Logical OR functoid to return the logical OR of input parameters. The input parameters have to be Boolean or numeric. This functoid requires two to one hundred input parameters.
 * **If-Then-Else Functoid**: Use the If-Then-Else Functoid to return a value from one of two input parameters based on a condition. If the condition (first input) is True, then the value of the second input parameter is returned, otherwise the Third input is returned.
+
+### Database Functoids
+
+* **Adv Database Lookup Functoid**: Use the Adv Database Lookup functoid to extract information from a database and store it as a Microsoft ActiveX Data Objects (ADO) recordset. This functoid requires the following 2 inputs: a database connection string and a WHERE clausure.
+* **Adv Value Extractor** Use the Adv Value Extrator functoid to extract the appropriate column value from a recordset returned by the Database Lookup functoid. This functoid requires two inputs parameters: a link to the Database Lookup functoid and a column name.
