@@ -260,36 +260,6 @@ namespace BizTalk.String.Functoids {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to This functoid analizes the input string and returns a boolean with the comparison result of the string and the expression (second parameter).
-        /// </summary>
-        internal static string IDS_REGEXFUNCTOID_DESCRIPTION {
-            get {
-                return ResourceManager.GetString("IDS_REGEXFUNCTOID_DESCRIPTION", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Regex Functoid - Regular Expression.
-        /// </summary>
-        internal static string IDS_REGEXFUNCTOID_NAME {
-            get {
-                return ResourceManager.GetString("IDS_REGEXFUNCTOID_NAME", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Returns true or false if the input string contains any of the regular expression characters.
-        ///Parameters:
-        ///- string
-        ///- regular expression pattern.
-        /// </summary>
-        internal static string IDS_REGEXFUNCTOID_TOOLTIP {
-            get {
-                return ResourceManager.GetString("IDS_REGEXFUNCTOID_TOOLTIP", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         internal static System.Drawing.Bitmap IDS_REMOVELEADINGZEROSFUNCTOID_BITMAP {
@@ -364,47 +334,6 @@ namespace BizTalk.String.Functoids {
         internal static string IDS_REPLACEFUNCTOID_TOOLTIP {
             get {
                 return ResourceManager.GetString("IDS_REPLACEFUNCTOID_TOOLTIP", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap IDS_STRINGSPLITTERFUNCTOID_BITMAP {
-            get {
-                object obj = ResourceManager.GetObject("IDS_STRINGSPLITTERFUNCTOID_BITMAP", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to This functoid will split the initial string (first parameter), by the splitting character (second parameter), returning the string in the desired position of the split (third parameter).
-        ///Parameters:
-        ///- String to be splitted
-        ///- splitting character
-        ///- returned position.
-        /// </summary>
-        internal static string IDS_STRINGSPLITTERFUNCTOID_DESCRIPTION {
-            get {
-                return ResourceManager.GetString("IDS_STRINGSPLITTERFUNCTOID_DESCRIPTION", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to String Splitter Functoid.
-        /// </summary>
-        internal static string IDS_STRINGSPLITTERFUNCTOID_NAME {
-            get {
-                return ResourceManager.GetString("IDS_STRINGSPLITTERFUNCTOID_NAME", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Returns a string that is the string in the selected position. Takes 3 arguments: initial string, splitting character and the seleted array position..
-        /// </summary>
-        internal static string IDS_STRINGSPLITTERFUNCTOID_TOOLTIP {
-            get {
-                return ResourceManager.GetString("IDS_STRINGSPLITTERFUNCTOID_TOOLTIP", resourceCulture);
             }
         }
         

@@ -1,0 +1,18 @@
+C:\Program Files (x86)\Microsoft BizTalk Server 2016\Developer Tools\Mapper Extensions\BizTalk.ResourceContext.Functoids.dll
+C:\Program Files (x86)\Microsoft BizTalk Server 2016\Developer Tools\Mapper Extensions\BizTalk.ResourceContext.Functoids.pdb
+C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Context.Functoids\bin\Debug\BizTalk.ResourceContext.Functoids.dll
+C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Context.Functoids\bin\Debug\BizTalk.ResourceContext.Functoids.pdb
+C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Context.Functoids\bin\Debug\Microsoft.BizTalk.BaseFunctoids.dll
+C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Context.Functoids\bin\Debug\Microsoft.BizTalk.Pipeline.dll
+C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Context.Functoids\bin\Debug\Microsoft.XLANGs.BaseTypes.dll
+C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Context.Functoids\bin\Debug\Microsoft.XLANGs.BizTalk.CrossProcess.dll
+C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Context.Functoids\bin\Debug\Microsoft.XLANGs.BizTalk.Engine.dll
+C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Context.Functoids\bin\Debug\Microsoft.XLANGs.BizTalk.Process.dll
+C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Context.Functoids\bin\Debug\Microsoft.XLANGs.BizTalk.ProcessInterface.dll
+C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Context.Functoids\bin\Debug\Microsoft.XLANGs.Engine.dll
+C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Context.Functoids\bin\Debug\Microsoft.BizTalk.Interop.Agent.dll
+C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Context.Functoids\obj\Debug\BizTalk.ResourceContext.Functoids.ContextResources.resources
+C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Context.Functoids\obj\Debug\BizTalk.ResourceContext.Functoids.csproj.GenerateResource.Cache
+C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Context.Functoids\obj\Debug\BizTalk.ResourceContext.Functoids.dll
+C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Context.Functoids\obj\Debug\BizTalk.ResourceContext.Functoids.pdb
+C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Context.Functoids\obj\Debug\BizTalk.ResourceContext.Functoids.csprojResolveAssemblyReference.cache

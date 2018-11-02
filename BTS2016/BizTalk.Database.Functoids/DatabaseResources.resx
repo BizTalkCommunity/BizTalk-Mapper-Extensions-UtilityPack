@@ -121,10 +121,10 @@
     <value>Adv Database Lookup</value>
   </data>
   <data name="IDS_ADVDBLOOKUPFUNCTOID_DESCRIPTION" xml:space="preserve">
-    <value>Use the Adv Database Lookup functoid to extract information from a database and store it as a Microsoft ActiveX Data Objects (ADO) recordset. This functoid requires the following 3 inputs: a database connection string, the table to lookup in and a WHERE clausure.</value>
+    <value>Use the Adv Database Lookup functoid to extract information from a database and store it as a Microsoft ActiveX Data Objects (ADO) recordset. This functoid requires the following 2 inputs: a database connection string and a WHERE clausure.</value>
   </data>
   <data name="IDS_ADVDBLOOKUPFUNCTOID_TOOLTIP" xml:space="preserve">
-    <value>Use the Adv Database Lookup functoid to extract information from a database and store it as a Microsoft ActiveX Data Objects (ADO) recordset. This functoid requires the following 3 inputs: a database connection string, the table to lookup in and a WHERE clausure.</value>
+    <value>Use the Adv Database Lookup functoid to extract information from a database and store it as a Microsoft ActiveX Data Objects (ADO) recordset. This functoid requires the following 2 inputs: a database connection string and a WHERE clausure.</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="IDS_ADVDBLOOKUPFUNCTOID_BITMAP" type="System.Resources.ResXFileRef, System.Windows.Forms">
