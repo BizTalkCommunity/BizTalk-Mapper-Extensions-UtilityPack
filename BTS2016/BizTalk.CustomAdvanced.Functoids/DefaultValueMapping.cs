@@ -44,7 +44,7 @@ namespace BizTalk.CustomAdvanced.Functoids
             // Set the function name that is to be called when invoking this functoid.
             // To test the map in Visual Studio, this functoid does not need to be in the GAC.
             // If using this functoid in a deployed BizTalk app. then it must be in the GAC
-            //SetExternalFunctionName(GetType().Assembly.FullName, GetType().FullName, "ReturnValueFromOptionalField");
+            SetExternalFunctionName(GetType().Assembly.FullName, GetType().FullName, "ReturnValueFromOptionalField");
 
             SetScriptBuffer(ScriptType.CSharp, this.GetCSharpBuffer());
             HasSideEffects = false;
@@ -62,11 +62,11 @@ namespace BizTalk.CustomAdvanced.Functoids
             return builder.ToString();
         }
 
-        //public string ReturnValueFromOptionalField(string input, string defaultValue)
-        //{
-        //    if (System.String.IsNullOrEmpty(input))
-        //        return defaultValue;
-        //    return input;
-        //}
+        public string ReturnValueFromOptionalField(string input, string defaultValue)
+        {
+            if (System.String.IsNullOrEmpty(input))
+                return defaultValue;
+            return input;
+        }
     }
 }
