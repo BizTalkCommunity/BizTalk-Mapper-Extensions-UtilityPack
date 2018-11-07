@@ -17,4 +17,3 @@ C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Custom
 C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.CustomAdvanced.Functoids\obj\Debug\BizTalk.CustomAdvanced.Functoids.csproj.GenerateResource.Cache
 C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.CustomAdvanced.Functoids\obj\Debug\BizTalk.CustomAdvanced.Functoids.dll
 C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.CustomAdvanced.Functoids\obj\Debug\BizTalk.CustomAdvanced.Functoids.pdb
-C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.CustomAdvanced.Functoids\obj\Debug\BizTalk.CustomAdvanced.Functoids.csprojResolveAssemblyReference.cache

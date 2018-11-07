@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Specialized;
-using Microsoft.BizTalk.SSOClient.Interop;
+using Microsoft.EnterpriseSingleSignOn.Interop;
 
 namespace BizTalk.Common.Services
 {

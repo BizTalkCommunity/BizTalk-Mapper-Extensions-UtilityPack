@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("BizTalk.String.Functoids")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Devscope")]
+[assembly: AssemblyCompany("Devscope - Sandro Pereira")]
 [assembly: AssemblyProduct("BizTalk.String.Functoids")]
 [assembly: AssemblyCopyright("Copyright © Sandro Pereira 2013")]
 [assembly: AssemblyTrademark("")]

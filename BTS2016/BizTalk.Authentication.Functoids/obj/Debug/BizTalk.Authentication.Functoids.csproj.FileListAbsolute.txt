@@ -13,7 +13,6 @@ C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPac
 C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Authentication.Functoids\obj\Debug\BizTalk.Authentication.Functoids.pdb
 C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Authentication.Functoids\bin\Debug\BizTalk.Authentication.Functoids.dll
 C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Authentication.Functoids\bin\Debug\BizTalk.Authentication.Functoids.pdb
-C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Authentication.Functoids\obj\Debug\BizTalk.Authentication.Functoids.csprojResolveAssemblyReference.cache
 C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Authentication.Functoids\obj\Debug\BizTalk.Authentication.Functoids.AuthenticationResources.resources
 C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Authentication.Functoids\obj\Debug\BizTalk.Authentication.Functoids.csproj.GenerateResource.Cache
 C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Authentication.Functoids\obj\Debug\BizTalk.Authentication.Functoids.dll
