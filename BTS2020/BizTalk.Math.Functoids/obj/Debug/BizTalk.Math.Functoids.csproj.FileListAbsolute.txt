@@ -1,0 +1,6 @@
+C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Math.Functoids\bin\Debug\BizTalk.Math.Functoids.dll
+C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Math.Functoids\bin\Debug\BizTalk.Math.Functoids.pdb
+C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Math.Functoids\obj\Debug\BizTalk.Math.Functoids.Properties.Resources.resources
+C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Math.Functoids\obj\Debug\BizTalk.Math.Functoids.csproj.GenerateResource.Cache
+C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Math.Functoids\obj\Debug\BizTalk.Math.Functoids.dll
+C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Math.Functoids\obj\Debug\BizTalk.Math.Functoids.pdb
