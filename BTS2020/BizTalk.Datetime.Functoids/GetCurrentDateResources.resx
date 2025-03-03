@@ -139,4 +139,17 @@
         DgAAAABJRU5ErkJggg==
 </value>
   </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="IDS_ADDDAYSTODATEFUNCTOID_BITMAP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\ADD-days.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="IDS_ADDDAYSTODATEFUNCTOID_DESCRIPTION" xml:space="preserve">
+    <value>Functoid that allows to add days to date</value>
+  </data>
+  <data name="IDS_ADDDAYSTODATEFUNCTOID_NAME" xml:space="preserve">
+    <value>Add Days to Date Functoid</value>
+  </data>
+  <data name="IDS_ADDDAYSTODATEFUNCTOID_TOOLTIP" xml:space="preserve">
+    <value>Return the date with the dates we want to add</value>
+  </data>
 </root>

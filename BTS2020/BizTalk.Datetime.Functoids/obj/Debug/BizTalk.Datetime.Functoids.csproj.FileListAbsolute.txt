@@ -10,3 +10,13 @@ C:\DEV\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Datetime.Funct
 C:\DEV\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Datetime.Functoids\bin\Debug\BizTalk.Datetime.Functoids.dll
 C:\DEV\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Datetime.Functoids\bin\Debug\BizTalk.Datetime.Functoids.pdb
 C:\DEV\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Datetime.Functoids\bin\Debug\Microsoft.BizTalk.BaseFunctoids.dll
+C:\GitHub\BizTalk-Mapper-Extensions-UtilityPack\BTS2020\BizTalk.Datetime.Functoids\bin\Debug\BizTalk.Datetime.Functoids.dll
+C:\GitHub\BizTalk-Mapper-Extensions-UtilityPack\BTS2020\BizTalk.Datetime.Functoids\bin\Debug\BizTalk.Datetime.Functoids.pdb
+C:\GitHub\BizTalk-Mapper-Extensions-UtilityPack\BTS2020\BizTalk.Datetime.Functoids\bin\Debug\Microsoft.BizTalk.BaseFunctoids.dll
+C:\GitHub\BizTalk-Mapper-Extensions-UtilityPack\BTS2020\BizTalk.Datetime.Functoids\obj\Debug\BizTalk.Datetime.Functoids.csprojAssemblyReference.cache
+C:\GitHub\BizTalk-Mapper-Extensions-UtilityPack\BTS2020\BizTalk.Datetime.Functoids\obj\Debug\BizTalk.Datetime.Functoids.GetCurrentDateResources.resources
+C:\GitHub\BizTalk-Mapper-Extensions-UtilityPack\BTS2020\BizTalk.Datetime.Functoids\obj\Debug\BizTalk.Datetime.Functoids.csproj.GenerateResource.cache
+C:\GitHub\BizTalk-Mapper-Extensions-UtilityPack\BTS2020\BizTalk.Datetime.Functoids\obj\Debug\BizTalk.Datetime.Functoids.csproj.CoreCompileInputs.cache
+C:\GitHub\BizTalk-Mapper-Extensions-UtilityPack\BTS2020\BizTalk.Datetime.Functoids\obj\Debug\BizTalk.Datetime.Functoids.csproj.CopyComplete
+C:\GitHub\BizTalk-Mapper-Extensions-UtilityPack\BTS2020\BizTalk.Datetime.Functoids\obj\Debug\BizTalk.Datetime.Functoids.dll
+C:\GitHub\BizTalk-Mapper-Extensions-UtilityPack\BTS2020\BizTalk.Datetime.Functoids\obj\Debug\BizTalk.Datetime.Functoids.pdb
