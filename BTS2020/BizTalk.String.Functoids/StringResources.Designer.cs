@@ -299,6 +299,43 @@ namespace BizTalk.String.Functoids {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap IDS_REMOVEMULTIPLESPACESFUNCTOID_BITMAP {
+            get {
+                object obj = ResourceManager.GetObject("IDS_REMOVEMULTIPLESPACESFUNCTOID_BITMAP", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Functoid that replace multiple spaces inside the string with a single space.
+        /// </summary>
+        internal static string IDS_REMOVEMULTIPLESPACESFUNCTOID_DESCRIPTION {
+            get {
+                return ResourceManager.GetString("IDS_REMOVEMULTIPLESPACESFUNCTOID_DESCRIPTION", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Replace Multiple Spaces with a Single Space Functoid.
+        /// </summary>
+        internal static string IDS_REMOVEMULTIPLESPACESFUNCTOID_NAME {
+            get {
+                return ResourceManager.GetString("IDS_REMOVEMULTIPLESPACESFUNCTOID_NAME", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Returns a string with single spaces.
+        /// </summary>
+        internal static string IDS_REMOVEMULTIPLESPACESFUNCTOID_TOOLTIP {
+            get {
+                return ResourceManager.GetString("IDS_REMOVEMULTIPLESPACESFUNCTOID_TOOLTIP", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap IDS_REMOVETRAILINGZEROSFUNCTOID_BITMAP {
             get {
                 object obj = ResourceManager.GetObject("IDS_REMOVETRAILINGZEROSFUNCTOID_BITMAP", resourceCulture);

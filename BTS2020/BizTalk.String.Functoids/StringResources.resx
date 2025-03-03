@@ -204,6 +204,18 @@ Parameters:
   <data name="IDS_REMOVELEADINGZEROSFUNCTOID_TOOLTIP" xml:space="preserve">
     <value>Removes any leading zeros from the input string</value>
   </data>
+  <data name="IDS_REMOVEMULTIPLESPACESFUNCTOID_BITMAP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\EMPTY SPACES.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="IDS_REMOVEMULTIPLESPACESFUNCTOID_DESCRIPTION" xml:space="preserve">
+    <value>Functoid that replace multiple spaces inside the string with a single space</value>
+  </data>
+  <data name="IDS_REMOVEMULTIPLESPACESFUNCTOID_NAME" xml:space="preserve">
+    <value>Replace Multiple Spaces with a Single Space Functoid</value>
+  </data>
+  <data name="IDS_REMOVEMULTIPLESPACESFUNCTOID_TOOLTIP" xml:space="preserve">
+    <value>Returns a string with single spaces</value>
+  </data>
   <data name="IDS_REMOVETRAILINGZEROSFUNCTOID_BITMAP" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\RemoveTrailingZero.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
