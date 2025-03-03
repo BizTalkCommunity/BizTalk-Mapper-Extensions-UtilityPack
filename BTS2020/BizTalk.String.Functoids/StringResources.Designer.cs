@@ -299,6 +299,43 @@ namespace BizTalk.String.Functoids {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap IDS_REMOVETRAILINGZEROSFUNCTOID_BITMAP {
+            get {
+                object obj = ResourceManager.GetObject("IDS_REMOVETRAILINGZEROSFUNCTOID_BITMAP", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Removes any trailing zeros from the input string - Remove the last three characters (&quot;.00&quot;).
+        /// </summary>
+        internal static string IDS_REMOVETRAILINGZEROSFUNCTOID_DESCRIPTION {
+            get {
+                return ResourceManager.GetString("IDS_REMOVETRAILINGZEROSFUNCTOID_DESCRIPTION", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Remove Trailing Zeros Functoid.
+        /// </summary>
+        internal static string IDS_REMOVETRAILINGZEROSFUNCTOID_NAME {
+            get {
+                return ResourceManager.GetString("IDS_REMOVETRAILINGZEROSFUNCTOID_NAME", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Removes any trailing zeros from the input string (&quot;.00&quot;).
+        /// </summary>
+        internal static string IDS_REMOVETRAILINGZEROSFUNCTOID_TOOLTIP {
+            get {
+                return ResourceManager.GetString("IDS_REMOVETRAILINGZEROSFUNCTOID_TOOLTIP", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap IDS_REPLACEFUNCTOID_BITMAP {
             get {
                 object obj = ResourceManager.GetObject("IDS_REPLACEFUNCTOID_BITMAP", resourceCulture);

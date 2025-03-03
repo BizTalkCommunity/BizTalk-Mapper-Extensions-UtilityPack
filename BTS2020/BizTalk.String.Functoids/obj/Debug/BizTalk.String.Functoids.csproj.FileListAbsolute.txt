@@ -24,3 +24,11 @@ C:\DEV\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.String.Functoi
 C:\DEV\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.String.Functoids\obj\Debug\BizTalk.String.Functoids.csproj.GenerateResource.cache
 C:\DEV\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.String.Functoids\obj\Debug\BizTalk.String.Functoids.dll
 C:\DEV\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.String.Functoids\obj\Debug\BizTalk.String.Functoids.pdb
+C:\GitHub\BizTalk-Mapper-Extensions-UtilityPack\BTS2020\BizTalk.String.Functoids\bin\Debug\BizTalk.String.Functoids.dll
+C:\GitHub\BizTalk-Mapper-Extensions-UtilityPack\BTS2020\BizTalk.String.Functoids\bin\Debug\BizTalk.String.Functoids.pdb
+C:\GitHub\BizTalk-Mapper-Extensions-UtilityPack\BTS2020\BizTalk.String.Functoids\obj\Debug\BizTalk.String.Functoids.csprojAssemblyReference.cache
+C:\GitHub\BizTalk-Mapper-Extensions-UtilityPack\BTS2020\BizTalk.String.Functoids\obj\Debug\BizTalk.String.Functoids.StringResources.resources
+C:\GitHub\BizTalk-Mapper-Extensions-UtilityPack\BTS2020\BizTalk.String.Functoids\obj\Debug\BizTalk.String.Functoids.csproj.GenerateResource.cache
+C:\GitHub\BizTalk-Mapper-Extensions-UtilityPack\BTS2020\BizTalk.String.Functoids\obj\Debug\BizTalk.String.Functoids.csproj.CoreCompileInputs.cache
+C:\GitHub\BizTalk-Mapper-Extensions-UtilityPack\BTS2020\BizTalk.String.Functoids\obj\Debug\BizTalk.String.Functoids.dll
+C:\GitHub\BizTalk-Mapper-Extensions-UtilityPack\BTS2020\BizTalk.String.Functoids\obj\Debug\BizTalk.String.Functoids.pdb

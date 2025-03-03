@@ -204,6 +204,18 @@ Parameters:
   <data name="IDS_REMOVELEADINGZEROSFUNCTOID_TOOLTIP" xml:space="preserve">
     <value>Removes any leading zeros from the input string</value>
   </data>
+  <data name="IDS_REMOVETRAILINGZEROSFUNCTOID_BITMAP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\RemoveTrailingZero.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="IDS_REMOVETRAILINGZEROSFUNCTOID_DESCRIPTION" xml:space="preserve">
+    <value>Removes any trailing zeros from the input string - Remove the last three characters (".00")</value>
+  </data>
+  <data name="IDS_REMOVETRAILINGZEROSFUNCTOID_NAME" xml:space="preserve">
+    <value>Remove Trailing Zeros Functoid</value>
+  </data>
+  <data name="IDS_REMOVETRAILINGZEROSFUNCTOID_TOOLTIP" xml:space="preserve">
+    <value>Removes any trailing zeros from the input string (".00")</value>
+  </data>
   <data name="IDS_REPLACEFUNCTOID_BITMAP" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\Replace.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
