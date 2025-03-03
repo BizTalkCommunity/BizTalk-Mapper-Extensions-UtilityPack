@@ -16,7 +16,7 @@ namespace BizTalk.String.Functoids
             : base()
         {
             //ID for this functoid
-            this.ID = 10010;
+            this.ID = 10011;
 
             // resource assembly must be ProjectName.ResourceName if building with VS.Net
             SetupResourceAssembly("BizTalk.String.Functoids.StringResources", Assembly.GetExecutingAssembly());
